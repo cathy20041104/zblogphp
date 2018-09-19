@@ -1,0 +1,22 @@
+{
+	"enviroment": {
+		"chs": "组件丢失"
+		,"modules": []
+	} 
+	,"permission": {
+		"chs": "权限检查"
+		,"modules": []
+	}
+	,"displayerror": {
+		"chs": "乱码及显示错误"
+		,"modules": []
+	}
+	,"recount": {
+		"chs": "文章计数错误"
+		,"modules": []
+	}
+	,"app": {
+		"chs": "应用相关" 
+		,"modules": []
+	}
+}
